@@ -1,0 +1,54 @@
+{
+  "users": {
+    "admin": {
+      "password": "e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7",
+      "role": "admin",
+      "name": "System Admin",
+      "email": "admin@finiq.pro",
+      "created": "2026-04-02 16:12:22.834381",
+      "last_login": null,
+      "login_count": 0,
+      "watchlist": [],
+      "portfolios": [],
+      "notes": [],
+      "clients": [],
+      "activity_log": []
+    },
+    "nkv_5506": {
+      "password": "eca2300e86cd32adbbea0fb64469323968b9b49ad1155a3a6300e584d5779c3f",
+      "role": "user",
+      "name": "Nand Kishor Vyas",
+      "email": "nkv@gmail.com",
+      "organization": "nkv_5506",
+      "created": "2026-04-02 16:18:46.876876",
+      "last_login": "2026-04-03 11:55:43.501074",
+      "login_count": 2,
+      "watchlist": [],
+      "portfolios": [],
+      "notes": [],
+      "clients": [],
+      "activity_log": [
+        {
+          "time": "2026-04-03 11:58:33.928565",
+          "action": "Logged out"
+        },
+        {
+          "time": "2026-04-03 11:55:43.524923",
+          "action": "Logged in"
+        },
+        {
+          "time": "2026-04-02 16:35:10.072181",
+          "action": "Logged out"
+        },
+        {
+          "time": "2026-04-02 16:18:51.168013",
+          "action": "Logged in"
+        }
+      ]
+    }
+  },
+  "settings": {
+    "allow_reg": true,
+    "app_name": "FinIQ Pro"
+  }
+}

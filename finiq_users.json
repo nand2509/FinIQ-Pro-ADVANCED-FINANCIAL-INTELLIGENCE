@@ -1,0 +1,80 @@
+{
+  "users": {
+    "admin": {
+      "password": "e86f78a8a3caf0b60d8e74e5942aa6d86dc150cd3c03338aef25b7d2d7e3acc7",
+      "role": "admin",
+      "name": "System Administrator",
+      "email": "admin@finiq.pro",
+      "created": "2026-03-31 12:16:40.154084",
+      "last_login": null,
+      "login_count": 0,
+      "clients": [],
+      "saved_portfolios": [],
+      "notes": [],
+      "activity_log": []
+    },
+    "nkv_5506": {
+      "password": "eca2300e86cd32adbbea0fb64469323968b9b49ad1155a3a6300e584d5779c3f",
+      "role": "user",
+      "name": "Nand Kishor Vyas",
+      "email": "nandkishorvyas70@gmail.com",
+      "organization": "InfiJobs",
+      "created": "2026-03-31 12:17:23.342206",
+      "last_login": "2026-03-31 12:17:38.371609",
+      "login_count": 1,
+      "clients": [],
+      "saved_portfolios": [
+        {
+          "name": "Nand Kishor Vyas \u2014 2026-03-31 12:22",
+          "client": "Nand Kishor Vyas",
+          "risk_profile": "Conservative",
+          "currency": "\u20b9 INR",
+          "benchmark": "Nifty 50",
+          "rows": 15,
+          "columns": [
+            "Date",
+            "Type",
+            "Category",
+            "Amount (INR)",
+            "Amount (USD)",
+            "Description"
+          ],
+          "saved_at": "2026-03-31 12:22:30.184656",
+          "column_mapping": {
+            "revenue": "Amount (INR)",
+            "cost": "(none)",
+            "ni": "(none)",
+            "asset": "(none)",
+            "liab": "(none)",
+            "equity": "(none)"
+          }
+        }
+      ],
+      "notes": [],
+      "activity_log": [
+        {
+          "time": "2026-03-31 12:50:11.578275",
+          "action": "Uploaded file: Amazon Sales data.csv"
+        },
+        {
+          "time": "2026-03-31 12:22:30.203745",
+          "action": "Saved portfolio: Nand Kishor Vyas"
+        },
+        {
+          "time": "2026-03-31 12:18:02.490307",
+          "action": "Uploaded file: budget-report-2026-03-27.csv"
+        },
+        {
+          "time": "2026-03-31 12:17:38.389830",
+          "action": "Logged in"
+        }
+      ]
+    }
+  },
+  "system_settings": {
+    "app_name": "FinIQ Pro",
+    "max_clients": 100,
+    "session_timeout": 60,
+    "allow_registration": true
+  }
+}
